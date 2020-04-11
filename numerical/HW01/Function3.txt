@@ -1,0 +1,22 @@
+----------Bisection----------
+Solution = 1.1800716847181323, times = 24, err = 0.0000000179
+Solution = 2.3444938093423846, times = 24, err = 0.0000000179
+----------FalsePosition----------
+Solution = 1.1800716902656154, times = 11, err=0.1800716903
+Solution = 2.3444938137158626, times = 11, err=0.1555061863
+----------ModifyFalsePositoon----------
+Solution = 1.180071681368825, times = 29, err = 0.0000000098
+Solution = 2.344493813889848, times = 29, err = 0.0000000092
+----------SecantMethod----------
+Solution = 1.180071689558084, times = 6, err = 0.0000000000
+Solution = 2.344493814167423, times = 6, err = 0.0000000003
+----------NewtonsMethod----------
+Solution = 1.180071689558084, times = 6, err=0.0000000000
+Solution = 1.180071689558084, times = 6, err=0.0000000000
+Solution = 1.180071689558084, times = 5, err=0.0000000000
+Solution = 1.180071689558084, times = 5, err=0.0000000000
+Solution = 1.180071689558084, times = 7, err=0.0000000000
+Solution = 2.3444938141674223, times = 5, err=0.0000000000
+Solution = 2.3444938141674223, times = 5, err=0.0000000000
+Solution = 2.3444938141674223, times = 5, err=0.0000000000
+----------FixedPointMethod----------

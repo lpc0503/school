@@ -1,0 +1,46 @@
+----------Bisection----------
+Solution = -8.79929905384779, times = 26, err = 0.0000000149
+Solution = -6.861083664000034, times = 26, err = 0.0000000149
+Solution = -5.748730756342411, times = 26, err = 0.0000000149
+Solution = -3.467599205672741, times = 26, err = 0.0000000149
+Solution = -2.954250507056713, times = 26, err = 0.0000000149
+Solution = 1.4300282076001167, times = 26, err = 0.0000000149
+----------FalsePosition----------
+Solution = -8.799299055126236, times = 6, err=0.0327753767
+Solution = -6.861083664498049, times = 9, err=0.1389163355
+Solution = -5.748730750927055, times = 5, err=0.0004161978
+Solution = -3.4675991944479545, times = 27, err=0.5324008056
+Solution = -2.9542505116236173, times = 13, err=0.9542505116
+Solution = 1.430028206595857, times = 9, err=0.4300282066
+----------ModifyFalsePositoon----------
+Solution = -8.799299057734668, times = 33, err = 0.0000000068
+Solution = -6.861083666167494, times = 26, err = 0.0000000099
+Solution = -5.748730749984523, times = 29, err = 0.0000000073
+Solution = -3.467599199397093, times = 32, err = 0.0000000053
+Solution = -2.9542505150093574, times = 29, err = 0.0000000038
+Solution = 1.4300282052004043, times = 32, err = 0.0000000069
+----------SecantMethod----------
+Solution = -8.799299055122784, times = 6, err = 0.0000000000
+Solution = -3.467599199237764, times = 9, err = 0.0000000013
+Solution = -5.748730750927045, times = 5, err = 0.0000000001
+Solution = -2.9542505091534865, times = 7, err = 0.0000000000
+Solution = -2.9542505091534865, times = 6, err = 0.0000000001
+Solution = 1.43002820651935, times = 7, err = 0.0000000020
+----------NewtonsMethod----------
+Solution = -10.071030020328315, times = 4, err=0.0000000000
+Solution = -8.799299055122784, times = 4, err=0.0000000020
+Solution = -8.799299055122784, times = 6, err=0.0000000000
+Solution = -6.861083664707421, times = 4, err=0.0000000006
+Solution = -5.748730750927045, times = 5, err=0.0000000000
+Solution = -6.861083664707421, times = 6, err=0.0000000077
+Solution = -3.4675991992377564, times = 6, err=0.0000000000
+Solution = -2.9542505091534865, times = 4, err=0.0000000009
+Solution = -3.4675991992377564, times = 6, err=0.0000000061
+Solution = -58.92834572491492, times = 6, err=0.0000000000
+Solution = -3.4675991992377564, times = 6, err=0.0000000001
+Solution = 1.4300282065193448, times = 5, err=0.0000000000
+Solution = -8.799299055122784, times = 6, err=0.0000000002
+Solution = 1.430028206519345, times = 8, err=0.0000000000
+Solution = -13.246564665825606, times = 15, err=0.0000000000
+Solution = 1.4300282065193446, times = 40, err=0.0000000000
+----------FixedPointMethod----------
